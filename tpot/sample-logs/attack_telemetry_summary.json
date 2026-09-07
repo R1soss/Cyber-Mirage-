@@ -1,0 +1,20 @@
+{
+  "tpot_telemetry_summary": {
+    "total_attacks": 3500,
+    "attacks_by_honeypot": {
+      "dionaea": 2000,
+      "cowrie": 1000,
+      "tanner": 308,
+      "honeytrap": 137,
+      "rdphoneypot": 9
+    },
+    "top_destination_ports": [
+      445,
+      80,
+      443,
+      23,
+      22
+    ],
+    "analysis_status": "Ready for collaborator review"
+  }
+}
